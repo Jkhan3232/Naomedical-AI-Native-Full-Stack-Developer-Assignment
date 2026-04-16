@@ -22,4 +22,24 @@
 ## Credentials / Test Users
 
 - No pre-seeded credentials required.
-- Login creates a user on first valid email.
+- Login creates a user on the first valid email.
+
+## GitHub Repo:
+
+- https://github.com/Jkhan3232/Naomedical-AI-Native-Full-Stack-Developer-Assignment
+
+## Backend Live URL:
+
+- https://naomedical-ai-native-full-stack-dev-ten.vercel.app/health
+
+## Frontend Live URL:
+
+- https://naomedical-ai-native-full-stack-dev.vercel.app/login
+
+## Drive Link :
+
+- https://drive.google.com/drive/folders/1V7YsW-qB-8lRhuYD2c3YCV7uGwVdynk1?usp=sharing
+
+## Video Link:
+
+- https://drive.google.com/file/d/1cOzIZVraOw9bkllknm9zeDZgvYZkGl9R/view
